@@ -97,6 +97,10 @@ text-decoration: none;
   border-radius: 50%;
 }
 
+.img-border {
+  border: 2px solid #E8B9CC;
+}
+
 .text-center{
   text-align: center;
 }
